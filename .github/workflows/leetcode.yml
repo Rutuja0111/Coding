@@ -2,25 +2,35 @@ name: Update LeetCode Stats
 
 on:
   schedule:
-    - cron: "0 * * * *"  # This runs every hour
+    - cron: '0 * * * *' # Runs every hour
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-leetcode:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+    - name: Checkout repo
+      uses: actions/checkout@v3
 
-      - name: Generate LeetCode Stats
-        uses: PlatinumJ/leetcode-readme-stats@master
-        with:
-          LEETCODE_USERNAME: u/Rutuja_kokate
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
 
-      - name: Commit and Push
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add README.md
-          git commit -m "Update LeetCode stats" || echo "No changes to commit"
-          git push
+    - name: Install dependencies
+      run: npm install axios jsdom
+
+    - name: Update LeetCode stats in README
+      run: node ./updateLeetcode.js
+      env:
+        LEETCODE_USERNAME: Rutuja_kokate
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add README.md
+        git commit -m "Update LeetCode stats" || echo "No changes to commit"
+        git push
