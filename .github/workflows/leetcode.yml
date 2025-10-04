@@ -14,7 +14,7 @@ jobs:
       - name: Generate LeetCode Stats
         uses: PlatinumJ/leetcode-readme-stats@master
         with:
-          LEETCODE_USERNAME: Rutuja_kokate
+          LEETCODE_USERNAME: u/Rutuja_kokate
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
