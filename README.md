@@ -1,11 +1,12 @@
 # LeetCode Progress
 
-**Updated:** 2025-10-06 03:24 UTC
-**Solved:** 19
+**Updated:** 2025-10-06 06:19 UTC
+**Solved:** 20
 
 ### Solved problems (title — difficulty)
 
 - [Add Binary](https://leetcode.com/problems/add-binary/) — Easy
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) — Medium
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) — Easy
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) — Easy
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) — Easy
