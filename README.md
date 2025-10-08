@@ -1,7 +1,7 @@
 # LeetCode Progress
 
-**Updated:** 2025-10-07 06:19 UTC
-**Solved:** 20
+**Updated:** 2025-10-08 06:19 UTC
+**Solved:** 24
 
 ### Solved problems (title — difficulty)
 
@@ -11,6 +11,8 @@
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) — Easy
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) — Easy
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) — Easy
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — Medium
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) — Hard
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) — Easy
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) — Easy
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/) — Easy
@@ -24,4 +26,6 @@
 - [Sqrt(x)](https://leetcode.com/problems/sqrtx/) — Easy
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) — Easy
 - [Two Sum](https://leetcode.com/problems/two-sum/) — Easy
+- [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) — Medium
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — Easy
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) — Medium
