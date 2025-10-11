@@ -1,13 +1,15 @@
 # LeetCode Progress
 
-**Updated:** 2025-10-10 06:19 UTC
-**Solved:** 32
+**Updated:** 2025-10-11 06:16 UTC
+**Solved:** 35
 
 ### Solved problems (title — difficulty)
 
 - [Add Binary](https://leetcode.com/problems/add-binary/) — Easy
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) — Medium
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) — Easy
+- [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) — Easy
+- [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) — Easy
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) — Easy
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) — Medium
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) — Easy
@@ -34,6 +36,7 @@
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) — Easy
 - [Two Sum](https://leetcode.com/problems/two-sum/) — Easy
 - [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) — Medium
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — Easy
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) — Medium
