@@ -1,7 +1,7 @@
 # LeetCode Progress
 
-**Updated:** 2025-10-13 06:20 UTC
-**Solved:** 35
+**Updated:** 2025-10-14 06:20 UTC
+**Solved:** 37
 
 ### Solved problems (title — difficulty)
 
@@ -10,6 +10,7 @@
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) — Easy
 - [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) — Easy
 - [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) — Easy
+- [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) — Easy
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) — Easy
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) — Medium
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) — Easy
@@ -18,6 +19,7 @@
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) — Hard
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) — Easy
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) — Easy
+- [Move Zeroes](https://leetcode.com/problems/move-zeroes/) — Easy
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/) — Easy
 - [Plus One](https://leetcode.com/problems/plus-one/) — Easy
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) — Easy
